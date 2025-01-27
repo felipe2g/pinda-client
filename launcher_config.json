@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/felipe2g/pinda-client/archive/refs/heads/main.zip",
+	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/v0.0.1-alpha/pinda.zip",
 	"clientExecutable": "client.exe"
 }
