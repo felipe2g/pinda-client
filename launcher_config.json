@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.20.13560",
+	"clientVersion": "13.20.13561",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/v0.0.1-alpha/pinda.zip",
+	"clientFolder": "PindaOT",
+	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/v.1.0.0/pinda.zip",
 	"clientExecutable": "client.exe"
 }
