@@ -8,6 +8,10 @@ characterdata/*
 cache/*
 localhost.exe
 log/*
+minimap/*
 
 # Assets backup files
 *-bak
+
+# Local Files
+*-local*
