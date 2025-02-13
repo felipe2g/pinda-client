@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.20.13561",
+	"clientVersion": "13.20.13562",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "PindaOT",
-	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/v.1.0.0/pinda.zip",
+	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/v.1.1.0/pinda.zip",
 	"clientExecutable": "client.exe"
 }
