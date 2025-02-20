@@ -1,6 +1,6 @@
 {
-	"clientVersion": "13.40.13566",
-	"launcherVersion": "1.0",
+	"clientVersion": "13.40.13567",
+	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -15,5 +15,6 @@
 	],
 	"clientFolder": "PindaOT",
 	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/v.1.5.0/tibia.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "client_retro.exe",
+	"clientOpenExecutable": "client_open.exe"
 }
