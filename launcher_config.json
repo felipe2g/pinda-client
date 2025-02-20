@@ -14,7 +14,7 @@
 		}
 	],
 	"clientFolder": "PindaOT",
-	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/v.1.5.0/tibia.zip",
+	"newClientUrl" : "https://github.com/felipe2g/pinda-client/releases/download/13.40.13567/tibia.zip",
 	"clientExecutable": "client_retro.exe",
 	"clientOpenExecutable": "client_open.exe"
 }
